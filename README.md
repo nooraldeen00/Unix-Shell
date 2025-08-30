@@ -119,7 +119,7 @@ Through this project, I gained hands-on experience in:
 
 
 # ✨ 
-This project showcases low-level systems programming skills, process management expertise, and C development proficiency — all highly valuable for operating systems, backend, and systems software roles.
+This project showcases low-level systems programming skills, process management expertise, and C development proficiency. All highly valuable for operating systems, backend, and systems software roles.
 
 
 
